@@ -1,3 +1,3 @@
 # Programa que suma 2 números
-suma = 5+6
+suma = 1+1
 print(“Suma = “, suma)

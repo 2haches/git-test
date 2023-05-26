@@ -1,4 +1,4 @@
 # Programa divide.py
-divide = 10/6
+divide = 100/2
 print(“División = “, divide)
 
